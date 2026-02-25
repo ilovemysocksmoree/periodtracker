@@ -1,1 +1,1 @@
-"# periodtracker" 
+Made for me,because honestly, who knows me better than I do? Self-centric? Maybe. Self-aware? Definitely. It’s a simple period tracking app for now, no backend yet, so your data is stored locally on your device. You’re welcome to use it too. A proper backend will be pushed soon once I prioritize it.
